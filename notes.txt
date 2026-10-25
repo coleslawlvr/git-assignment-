@@ -1,2 +1,3 @@
 My GIT practice notes
 Extra practice line
+Using terminal VSCode/GIT
